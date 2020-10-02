@@ -1,2 +1,4 @@
 # Project exclude paths
 /target/
+/SerenityBDD-ExperTeam.iml
+/.idea/
